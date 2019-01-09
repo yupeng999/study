@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51d4b871-ff5d-436b-873e-32649f4e4900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/ann/NewProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/ann/ProxyBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/ann/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/serviceImpl/UserServiceByDBImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/serviceImpl/UserServiceByFileImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/NewProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/ProxyBase$ProxyHelp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/ProxyBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/ann1/MyProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/ann1/MyProxyFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/ann1/MyRegistryBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/ann1/Start.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/ann/ann1/TestService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/serviceImpl/UserServiceByDBImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/my/serviceImpl/UserServiceByFileImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/UserTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="51d4b871-ff5d-436b-873e-32649f4e4900" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,6 +36,7 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="fxml" value="1" />
+          <entry key="iml" value="1" />
           <entry key="java" value="61" />
           <entry key="xml" value="6" />
         </counts>
@@ -74,6 +44,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="61" />
           <entry key="XML" value="7" />
         </counts>
@@ -217,7 +188,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -272,7 +243,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547024163950" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547024942974" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -400,7 +371,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546937859388</updated>
-      <workItem from="1546937864669" duration="33831000" />
+      <workItem from="1546937864669" duration="34353000" />
     </task>
     <servers />
   </component>
@@ -437,10 +408,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33831000" />
+    <option name="totallyTimeSpent" value="34353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -792,6 +764,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/my/ann/Test.java">
       <provider selected="true" editor-type-id="text-editor">
